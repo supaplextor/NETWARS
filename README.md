@@ -45,3 +45,5 @@ The launcher opens a modern window with a 4K logical canvas (3840x2160) and scal
 This modern build is intentionally a playable baseline and modernization layer rather than a direct port of the original Borland C++ DOS code. The DOS-era files remain in `NETWARS/` and are preserved as reverse-engineering artifacts.
 
 The original Reverse-Engineered Source Code project is still available in the `NETWARS/` directory and is not replaced by this modern runtime.
+
+Outstanding implementation work is tracked in [tasks.md](tasks.md).
