@@ -215,8 +215,8 @@ game-specific additions (custom divide-error handler, far-heap initialisation).
 
 ## Known gaps
 
-The following subsystems are stubbed out in the provided source and would need
-further disassembly to implement fully:
+The outstanding subsystems are tracked in the repository's [canonical tasks
+list](../tasks.md). Technical references from the reverse-engineering notes:
 
 * **Polygon renderer** – the wireframe ship-shape drawing routines at offsets
   `0x16000–0x1AFFF` (EGA planar bit-manipulations and VGA mode-13h blitter).
